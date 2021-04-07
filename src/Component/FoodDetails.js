@@ -1,14 +1,27 @@
 import React from 'react';
 
-const FoodDetails = ({details}) => {
-    const {name, price, description, image} = details
-    return (
-        <div>
-            <img src={image} alt=""/>
-            <h1>{name}</h1>
-            <h1>{price}</h1>
+const FoodDetails = ({items}) => {
+    return(
+        <div className='section-center'>
+            {
+            items.map(item => {
+                const {name, price, description, image, id} = item
+                return (
+                        <div key={id} className='menu-item'>
+                            <img src={image} className='photo' alt=""/>
+                            <div className="item-info">
+                                <header>
+                                    <h4>{name}</h4>
+                                    <h4 className="price">{price}</h4>
+                                </header>
+                                <p className='item-text'>{description}</p>  
+                            </div>
+                        </div>
+                    );
+            })
+        }
         </div>
-    );
+    )
 };
 
 export default FoodDetails;

@@ -1,98 +1,9 @@
 [
-    {
-        "id":"1",
-        "name": "tarikari with veg",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
-        "price": "$120",
-        "category": "break-fast",
-        "image": "https://i.ibb.co/Yjcmjkc/edgar-castrejon-1-SPu0-KT-Ejg-unsplash.png",
-        "taste":"spicy"
-    },
-    {
-        "id":"2",
-        "name": "spicy chicken tandury with rice",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
-        "price": "$370",
-        "category": "lunch",
-        "image": "https://i.ibb.co/54Wfx9Z/2e123c1ab1e31167e08ac8a52daa377a.png",
-        "taste":"spicy"
-    },
-    {
-        "id":"3",
-        "name": "salt egg",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
-        "price": "$80",
-        "category": "break-fast",
-        "image": "https://i.ibb.co/k9hjGB4/cheese-close-up-diet-61180.png",
-        "taste":"spicy"
-    },
-    {
-        "id":"4",
-        "name": "Burger",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
-        "price": "$120",
-        "category": "lunch",
-        "image": "https://i.ibb.co/PMHRZqd/thanos-pal-598887-unsplash.png",
-        "taste":"smothy"
-    },
-    {
-        "id":"5",
-        "name": "chikctis egg",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
-        "price": "$220",
-        "category": "dinner",
-        "image": "https://i.ibb.co/R2LKxKT/eduardo-roda-lopes-198465-unsplash.png",
-        "taste":"spicy"
-    },
-    {
-        "id":"6",
-        "name": "shawrma",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
-        "price": "$99",
-        "category": "dinner",
-        "image": "https://i.ibb.co/54wWWDn/burrito-chicken-close-up-461198.png",
-        "taste":"spicy"
-    },
-    {
-        "id":"7",
-        "name": "veg with non-veg",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
-        "price": "$599",
-        "category": "break-fast",
-        "image": "https://i.ibb.co/GJNz3nV/brooke-lark-158019-unsplash.png",
-        "taste":"fruity"
-    },
-    {
-        "id":"8",
-        "name": "many layer burger",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
-        "price": "$880",
-        "category": "dinner",
-        "image": "https://i.ibb.co/rkDspxT/blur-close-up-dairy-product-376464.png",
-        "taste":"spicy"
-    },
-    {
-        "id":"9",
-        "name": "pasta",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
-        "price": "$170",
-        "category": "lunch",
-        "image": "https://i.ibb.co/Yjcmjkc/edgar-castrejon-1-SPu0-KT-Ejg-unsplash.png",
-        "taste":"spicy"
-    },
-    {
-        "id":"10",
-        "name": "egg fush",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
-        "price": "$199",
-        "category": "break-fast",
-        "image": "https://i.ibb.co/Nmb45P9/monika-grabkowska-759473-unsplash-2.png",
-        "taste":"smogy"
-    },
+   
     {
         "id":"11",
         "name": "Honey-Soy-Glazed Salmn with Peppers",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "price": "$112.07",
         "category": "lunch",
         "image": "https://i.ibb.co/3M1tXyf/lunch2.png",
@@ -101,7 +12,7 @@
     {
         "id":"12",
         "name": "Tarragon-rubbed-salmon",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "price": "$135.45",
         "category": "lunch",
         "image": "https://i.ibb.co/SV3Kd3Z/lunch3.png",
@@ -110,7 +21,7 @@
     {
         "id":"13",
         "name": "Indian lunch",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "price": "$140.99",
         "category": "lunch",
         "image": "https://i.ibb.co/fHN6jXG/lunch4.png",
@@ -119,7 +30,7 @@
     {
         "id":"14",
         "name": "Fried chicke bento",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "price": "$120.87",
         "category": "lunch",
         "image": "https://i.ibb.co/VJsLcbD/lunch5.png",
@@ -129,7 +40,7 @@
     {
         "id":"15",
         "name": "Healthy meal plan",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "price": "$177.69",
         "category": "lunch",
         "image": "https://i.ibb.co/0GwkR73/lunch6.png",
@@ -138,7 +49,7 @@
     {
         "id":"16",
         "name": "Beef stick",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "price": "$99.99",
         "category": "lunch",
         "image": "https://i.ibb.co/Bc1mrBD/lunch1.png",
@@ -147,7 +58,7 @@
     {
         "id":"17",
         "name": "French fry with cheese",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "price": "$120,99",
         "category": "dinner",
         "image": "https://i.ibb.co/j8W2xHz/dinner4.png",
@@ -156,7 +67,7 @@
     {
         "id":"18",
         "name": "poop tendorlon with cheek",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "price": "$130.64",
         "category": "dinner",
         "image": "https://i.ibb.co/3N32bzp/dinner5.png",
@@ -165,7 +76,7 @@
     {
         "id":"19",
         "name": "salmon with galpy",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "price": "$199.99",
         "category": "dinner",
         "image": "https://i.ibb.co/195P5pk/dinner6.png",
@@ -174,7 +85,7 @@
     {
         "id":"20",
         "name": "Baked chicken",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "price": "$177.00",
         "category": "dinner",
         "image": "https://i.ibb.co/597Wyx8/dinner1.png",
@@ -184,7 +95,7 @@
     {
         "id":"21",
         "name": "Lamony Salmon pichesta",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "price": "$180.70",
         "category": "dinner",
         "image": "https://i.ibb.co/2ZSB92c/dinner2.png",
@@ -193,7 +104,7 @@
     {
         "id":"22",
         "name": "gurlic butter baked salmon",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "price": "$99.00",
         "category": "dinner",
         "image": "https://i.ibb.co/jgZjXML/dinner3.png",
@@ -203,7 +114,7 @@
     {
         "id":"23",
         "name": "Breakfast sandwich",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "price": "$89.00",
         "category": "break-fast",
         "image": "https://i.ibb.co/DrWMXDt/breakfast2.png",
@@ -212,7 +123,7 @@
     {
         "id":"24",
         "name": "Baked chicken",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "price": "$77.00",
         "category": "break-fast",
         "image": "https://i.ibb.co/m9pb0fC/breakfast3.png",
@@ -221,7 +132,7 @@
     {
         "id":"25",
         "name": "Bagel and creame cheese",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "price": "$67.00",
         "category": "break-fast",
         "image": "https://i.ibb.co/j568ZbD/breakfast4.png",
@@ -229,7 +140,7 @@
     },{
         "id":"26",
         "name": "Full breakFast fried egg toast",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "price": "$12.00",
         "category": "break-fast",
         "image": "https://i.ibb.co/M2x2y9v/breakfast5.png",
@@ -238,16 +149,16 @@
     {
         "id":"27",
         "name": "Toast creasist fried egg",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "price": "$77.00",
         "category": "break-fast",
         "image": "https://i.ibb.co/gwkwxCy/breakfast6.png",
         "taste":"spicy"
     },
     {
-        "id":"27",
+        "id":"28",
         "name": "Egg benedict",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "price": "$77.00",
         "category": "break-fast",
         "image": "https://i.ibb.co/Kr42FkG/breakfast1.png",
