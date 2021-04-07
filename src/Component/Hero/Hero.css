@@ -1,0 +1,13 @@
+.hero-section {
+    background-image: url(../../images/hero-background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    
+}
+
+
+.hero-section h2 {
+    color: black;
+}
