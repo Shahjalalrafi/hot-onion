@@ -1,6 +1,8 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const FoodDetails = ({ items }) => {
+    
     return (
         <div className='section-center'>
             {
@@ -15,7 +17,7 @@ const FoodDetails = ({ items }) => {
                                     <h4 className="price">{price}</h4>
                                 </header>
                                 <p className='item-text'>{description}</p>
-                                <button className='filter-btn'>Check Out</button>
+                                <Link to={`/check-out/${id}`}><button className='filter-btn'>Check Out</button></Link>
                             </div>
                         </div>
                     );

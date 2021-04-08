@@ -3,15 +3,13 @@ import './Hero.css'
 
 const Hero = () => {
     return (
-        <div className='section-center hero-background'>
-            <div className='hero-section' >
+            <div className='hero-section text-center' >
                 <h2>Best food waiting for your belly</h2>
-                <div>
+                <div className="input-section">
                     <input type="text" placeholder='search your food' />
                     <input type="button" value='search' />
                 </div>
             </div>
-        </div>
     );
 };
 

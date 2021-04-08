@@ -4,10 +4,42 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 300px;
-    
 }
 
-
 .hero-section h2 {
-    color: black;
+    padding-top: 100px;
+}
+
+.input-section input[type='text'] {
+    border: none;
+    padding: 10px;
+    width: 400px;
+    border-radius: 20px 0px 0px 20px;
+}
+
+.input-section input[type="button"] {
+    border: none;
+    padding: 10px;
+    border-radius: 0px 20px 20px 0px;
+    width: 100px;
+    background: rgb(38, 152, 197);
+    color: white;
+    outline: none;
+}
+
+.input-section input[type="button"]:hover {
+    background: rgb(40, 126, 195);
+    outline: none;
+}
+
+@media screen and (max-width: 750px) {
+    .input-section input[type="text"] {
+        width: 270px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .input-section input[type="text"] {
+        width: 150px;
+    }
 }
